@@ -18,4 +18,13 @@ Al finalizar, se muestra un resumen de todos los autos registrados en un `alert(
 4. Puedes **registrar tantos autos como desees**.
 5. Al finalizar, el simulador mostrará un resumen con los autos registrados.
 
-## 📂 Estructura del proyecto
+
+## 📌 Tecnologías utilizadas
+- **HTML5** para la estructura.
+- **JavaScript** (sin frameworks) para la lógica y la interacción.
+- **Uso de cuadros de diálogo** para una experiencia interactiva.
+
+## 📌 Notas
+- **No se requiere consola** para usar el simulador, ya que todos los mensajes se muestran en alertas.
+- Diseñado para el curso **"Introducción a JavaScript" en Coderhouse**.
+- Estructura simplificada para facilitar la comprensión de conceptos básicos de programación.
